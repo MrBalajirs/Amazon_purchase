@@ -7,3 +7,5 @@ product page
 add to cart
 
 payment option
+
+add google pay
